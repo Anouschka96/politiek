@@ -1,0 +1,56 @@
+body
+{background-image: url(politiek.jpg);}
+
+.div2 { text-align: center;
+color: white;
+background-color: black;
+height: 400px;
+width: 1000px;
+float: center;
+margin: auto;
+padding: 100px; }
+
+.div1 { text-align: center;
+color: white;
+background-color: white;
+height: 100px;
+width: 1200px;
+float: center;
+margin: auto;
+font-size: 30px; 
+}
+
+ul a:hover {
+	background-color: red;
+
+}
+
+
+li {
+     display: inline;
+     padding-right: 10px;
+}
+
+ul a {
+	text-decoration: none;
+	color: black;
+}
+
+.div3 {
+	 text-align: left;
+	 font-size: 30px;
+color: white;
+background-color: black;
+height: 500px;
+width: 1000px;
+float: center;
+margin: auto;
+padding: 100px; }
+
+p {
+	font-size: 25px;
+}
+
+h2 {
+	font-size: 35px;
+}
